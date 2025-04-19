@@ -5,10 +5,16 @@ This Safari browser plugin enables back and forward navigation using side button
 
 ## Installation
 
+## Installation
+
 1. Download the [BackForwardNavigationMouseTool.zip](https://github.com/hexarf/BackForwardNavigationMouseTool/releases) file from the latest release on GitHub
 2. Unzip the downloaded file
 3. Move the BackForwardNavigationMouseTool.app to your Applications folder
-4. Open the app (you may need to right-click and select "Open" if you get a security warning)
+4. Open the app:
+   - **Note**: If you see a security warning that the app "cannot be opened because Apple cannot check it for malicious software":
+   - Right-click (or Control-click) on the app icon in Finder
+   - Select "Open" from the context menu
+   - When the warning appears again, click "Open"
 5. Open Safari and go to Safari > Settings > Extensions
 6. Enable the "Mouse Button Navigation" extension
 7. **Important**: Set the website access permission to "Allow for All Websites" to ensure the extension works properly on all sites you visit
